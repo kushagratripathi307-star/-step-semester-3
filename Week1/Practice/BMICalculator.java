@@ -1,4 +1,4 @@
-package Week1.P03_BMICalculator;
+package Week1.Practice;
 
 public class BMICalculator {
 

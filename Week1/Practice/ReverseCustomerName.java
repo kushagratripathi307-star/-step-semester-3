@@ -1,4 +1,4 @@
-package Week1.P05_ReverseCustomerName;
+package Week1.Practice;
 
 public class ReverseCustomerName {
 

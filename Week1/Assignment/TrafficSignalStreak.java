@@ -1,4 +1,4 @@
-package Week1.P08_TrafficSignalStreak;
+package Week1.Assignment;
 
 public class TrafficSignalStreak {
 

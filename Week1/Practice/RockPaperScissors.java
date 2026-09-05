@@ -1,6 +1,4 @@
-package Week1.P01_RockPaperScissors;
-
-import java.util.Random;
+package Week1.Practice;
 
 public class RockPaperScissors {
 

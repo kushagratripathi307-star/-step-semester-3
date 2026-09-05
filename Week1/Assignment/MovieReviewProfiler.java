@@ -1,4 +1,4 @@
-package Week1.P10_MovieReviewProfiler;
+package Week1.Assignment;
 
 public class MovieReviewProfiler {
 
@@ -14,7 +14,6 @@ public class MovieReviewProfiler {
         int longCount = 0;
 
         for (String word : words) {
-            // Strip punctuation if any to get pure word length
             String cleanWord = word.replaceAll("[^a-zA-Z0-9]", "");
             int len = cleanWord.length();
             if (len >= 1 && len <= 4) {

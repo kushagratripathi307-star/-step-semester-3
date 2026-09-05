@@ -1,7 +1,4 @@
-package Week1.P04_FirstNonRepeatingChar;
-
-import java.util.LinkedHashMap;
-import java.util.Map;
+package Week1.Practice;
 
 public class FirstNonRepeatingChar {
 
@@ -15,7 +12,7 @@ public class FirstNonRepeatingChar {
                 return text.charAt(i);
             }
         }
-        return '\0'; // return null char if no non-repeating character exists
+        return '\0';
     }
 
     public static void test(String text) {

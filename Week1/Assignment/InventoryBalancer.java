@@ -1,4 +1,4 @@
-package Week1.P09_InventoryBalancer;
+package Week1.Assignment;
 
 public class InventoryBalancer {
 

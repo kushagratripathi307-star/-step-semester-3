@@ -1,4 +1,4 @@
-package Week1.P06_SeatDuplicationChecker;
+package Week1.Assignment;
 
 public class SeatDuplicationChecker {
 

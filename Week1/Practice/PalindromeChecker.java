@@ -1,4 +1,4 @@
-package Week1.P02_PalindromeChecker;
+package Week1.Practice;
 
 public class PalindromeChecker {
 

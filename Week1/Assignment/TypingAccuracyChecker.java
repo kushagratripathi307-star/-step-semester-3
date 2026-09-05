@@ -1,4 +1,4 @@
-package Week1.P07_TypingAccuracyChecker;
+package Week1.Assignment;
 
 public class TypingAccuracyChecker {
 
